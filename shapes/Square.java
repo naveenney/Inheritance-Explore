@@ -3,18 +3,17 @@ package shapes;
 public class Square extends Rectangle{
    
     Square() {
-		super();
+	    super();
+    }
 	
-	}
-    
-		public void display1()
+     public void display1()
        {
     	    this.display();
          }
 	  
-	   public void shape()
-	   {
-		   System.out.println("Square Shape");
+     public void shape()
+     {
+        System.out.println("Square Shape");
 	   }
        
 	
