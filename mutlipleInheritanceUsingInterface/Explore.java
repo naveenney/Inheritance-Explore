@@ -4,15 +4,15 @@ public class Explore {
 
 	public static void main(String[] args)
 	{
-		    SmartPhone smartphone = new SmartPhone();
+	      SmartPhone smartphone = new SmartPhone();
 		    
-	        System.out.println("Wireless:"+smartphone.isWireless());
+	      System.out.println("Wireless:"+smartphone.isWireless());
 	      
-	        smartphone.enableNFC();
+	      smartphone.enableNFC();
 	        
-	        smartphone.disableNFC();
+	       smartphone.disableNFC();
 	        
-	        smartphone.enableInternet();
+	       smartphone.enableInternet();
 	        
 	        smartphone.disableInternet();
 	}
