@@ -3,21 +3,25 @@ package interfaceInheritance;
 public class Smartphone implements WireLessFeatures{
 
 
-    public void connectBluetooth() {
+    public void connectBluetooth()
+	{
         System.out.println("Bluetooth connected");
-    }
+         }
  
-    public void disconnectBluetooth() {
+    public void disconnectBluetooth() 
+	{
         System.out.println("Bluetooth disconnected");
-    }
+           }
  
-    public void enableHotspot() {
+    public void enableHotspot()
+	{
         System.out.println("Hotspot enabled");
-    }
- 
-    public void disableHotspot() {
+        }
+
+    public void disableHotspot() 
+	{	
         System.out.println("Hotspot disabled");
-    }
+	}
  
 	
 	
