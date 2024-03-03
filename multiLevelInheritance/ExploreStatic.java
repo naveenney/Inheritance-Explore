@@ -4,9 +4,9 @@ public class ExploreStatic {
 
 	public static void main(String[] args)
 	{
-		Bag b1=new Bag();
+	    Bag b1=new Bag();
 		
-        b1.eraser();
+            b1.eraser();
 	   	
 	    Box b4=new Bag();
 	    
