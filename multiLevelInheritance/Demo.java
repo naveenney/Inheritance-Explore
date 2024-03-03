@@ -52,9 +52,9 @@ public class Demo {
 		
 		b1.clean();
 		
-	    b1.isTheft();
+	        b1.isTheft();
 	    
-	    b1.write();
+	        b1.write();
 	    
 	    
 	}
