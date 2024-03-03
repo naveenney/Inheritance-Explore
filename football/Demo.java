@@ -11,11 +11,11 @@ public class Demo {
 		
 		Football f2=new Barcelona();
 		
-         f.club();
+                f.club();
        
-          f1.club();
+                f1.club();
        
-           f2.club();
+                f2.club();
 		
 	}
 }
